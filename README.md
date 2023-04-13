@@ -7,3 +7,6 @@
 #### Highly recommended using **Google Chrome**.
 
 **Live Demo:** [Smart-Login-System](https://irenaeus-xvi.github.io/Smart-Login-System/)
+
+
+![Sign Up](Sign Up.png)
