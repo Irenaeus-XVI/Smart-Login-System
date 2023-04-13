@@ -1,0 +1,45 @@
+:root {
+    --mainColor: #24353f;
+    --textColor: #17a2b8;
+}
+
+body {
+    background-color: var(--mainColor);
+    color: var(--textColor);
+}
+
+
+.logIn {
+    background-color: var(--mainColor);
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+input::placeholder{
+    color: white;
+}
+
+.form-control::placeholder{
+   color:white;
+}
+.logIn a{
+    text-decoration: none;
+}
+.logIn a:hover{
+    text-decoration: underline;
+}
+
+.navBar{
+    background-color: var(--mainColor);
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+
+.contentHome{
+    background-color: var(--mainColor);
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+
+#userName{
+    color: var(--textColor);
+}
